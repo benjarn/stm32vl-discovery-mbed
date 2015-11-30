@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+*.bin
+*.elf
+*.map
+*.hex
+*.d
